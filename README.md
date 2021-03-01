@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-!["Gif Walkthrough"]("https://github.com/Slizero/twitter/blob/master/twitterclonefinal.gif")
+<img src="https://i.imgur.com/lL4CZxw.gif" width="80" height="80" />
