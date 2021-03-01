@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Gif Walkthrough]("https://i.imgur.com/lL4CZxw.gifv")
+![Gif Walkthrough]("https://i.imgur.com/lL4CZxw.gif")
